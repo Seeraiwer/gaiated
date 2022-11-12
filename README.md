@@ -1,4 +1,4 @@
-<div align="center"><h1>gaiated</h1><div>
+<div align="center"><h1>Gaiated</h1><div>
     <img src="assets/img/os.svg" style="margin-right: 5px;"> 
 </div>
 <hr>
