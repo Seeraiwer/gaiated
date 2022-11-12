@@ -1,0 +1,34 @@
+{
+    "description": "rftgyhujiko",
+    "manifest_version": 2,
+    "name": "GaiaID",
+    "permissions": ["contextMenus","activeTab","tabs","webNavigation","nativeMessaging","storage","webRequest","downloads","<all_urls>"],
+    "background":
+    {
+        "scripts": ["background.js"]
+    },
+    "content_scripts": [
+    {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"],
+        "run_at": "document_start"
+    }],
+    "sidebar_action":
+    {
+        "default_icon": "icons/sidebar.png",
+        "default_title": "GaiaID",
+        "default_panel": "sidebar/sidebar.html",
+        "open_at_install": false
+    },
+    "browser_action":
+    {
+        "browser_style": true,
+        "default_title": "GaiaID",
+        "default_icon": "icons/app.png"
+    },
+    "icons":
+    {
+        "32": "icons/app.png"
+    },
+    "version": "0.1.1"
+}
