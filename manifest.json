@@ -13,12 +13,6 @@
         "js": ["content.js"],
         "run_at": "document_start"
     }],
-    "browser_action":
-    {
-        "browser_style": true,
-        "default_title": "GaiaID",
-        "default_icon": "icons/app.png"
-    },
     "icons":
     {
         "32": "icons/app.png"
