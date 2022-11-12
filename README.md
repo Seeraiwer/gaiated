@@ -9,7 +9,7 @@
 <b>an addon to exploit potential open traces of Google ID (GaiaID)</b>.
 <p>(optimized for firefox)</p>
 
-```console
+## use  
 1. Import the addon as an extension to be debugged. 
 2. Select GoogleID/GaiaID 
 3. Right click and then select Gaia Explorer.
