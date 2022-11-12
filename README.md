@@ -1,7 +1,5 @@
 <div align="center"><h1>gaiated</h1><div>
-    <img src="assets/img/latest.svg" style="margin-right: 5px;"> 
     <img src="assets/img/os.svg" style="margin-right: 5px;"> 
-    <img src="assets/img/doc.svg" style="margin-right: 5px;">
 </div>
 <hr>
 <b>An addon to exploit potential open traces of Google ID (GaiaID)</b>.
