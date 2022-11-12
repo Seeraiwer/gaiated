@@ -22,4 +22,6 @@ cf: https://extensionworkshop.com/documentation/develop/temporary-installation-i
 1. Select GoogleID/GaiaID 
 
 2. Right click and then select Gaia Explorer.
+
+3. Allowing multiple tabs to open in Firefox
 </div>
