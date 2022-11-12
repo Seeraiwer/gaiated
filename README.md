@@ -10,10 +10,18 @@
     <a href="#install">Install</a> |
     <a href="#use">Use</a>
 </p>
+</div>
 <br>
+
 ## install
+
 Import the addon as an extension to be debugged. 
+
+cf: https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
+
 ## use
+
 1. Select GoogleID/GaiaID 
+
 2. Right click and then select Gaia Explorer.
 </div>
